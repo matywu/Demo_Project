@@ -9,7 +9,7 @@ for k in enrolled_list:
 #print(db_dict)
 
 # 這學期是？
-cur_semester = "1082"
+cur_semester = "1081"
 
 # 系統開始運作，印條漂漂線
 print('-'*120)
